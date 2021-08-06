@@ -1,0 +1,15 @@
+{
+    "private": true,
+    "name": "github-publish-action-shell-action",
+    "version": "v1",
+    "author": {
+      "name": "RekGRpth",
+      "email": "RekGRpth@gmail.com",
+      "url": "https://github.com/RekGRpth/github-publish-action-shell-action"
+    },
+    "license": "MIT",
+    "dependencies": {
+    },
+    "devDependencies": {
+    }
+  }
